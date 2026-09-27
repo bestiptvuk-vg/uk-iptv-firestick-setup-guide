@@ -20,6 +20,6 @@ This repository provides open-source configuration walkthroughs for sideloading 
 ---
 
 ### 📖 Full Documentation & Troubleshooting:
-* For complete step-by-step screenshots and remote control mappings, read our full **[Firestick 4K Setup Guide](https://bestiptvuk.vg/iptv-hardware/amazon-firestick/)**.
+* For complete step-by-step screenshots and remote control mappings, read our full **[Firestick 4K Setup Guide](https://bestiptvuk.vg/iptv-devices/amazon-firestick/)**.
 * For Saturday 3PM live football server status, review our **[UK Anti-Freeze Server Benchmarks](https://bestiptvuk.vg/iptv-providers/anti-freeze-technology/)**.
 * Maintained by the technical engineering team at **[Best IPTV UK](https://bestiptvuk.vg/)**.
