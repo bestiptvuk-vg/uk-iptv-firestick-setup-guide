@@ -5,6 +5,7 @@ site:
     - type: space
       key: firestick-guide
       title: Firestick Setup Guide
-      path: ./
+      path: docs
+      default: true
       content:
         directory: ./
