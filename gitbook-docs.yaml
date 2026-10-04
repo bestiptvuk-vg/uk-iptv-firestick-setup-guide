@@ -1,0 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Best IPTV UK Docs
+  structure:
+    - type: space
+      key: firestick-guide
+      title: Firestick Setup Guide
+      path: ./
+      content:
+        directory: ./
